@@ -1,0 +1,17 @@
+{
+  "name": "guard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"MIT\"",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "express": "^4.17.2",
+    "module": "^1.2.5",
+    "quick.db": "^7.1.3"
+  }
+}
